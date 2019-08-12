@@ -1,1 +1,1 @@
-# gitprac
+# Sample Project to learn Git
